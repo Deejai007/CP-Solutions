@@ -1,0 +1,2 @@
+Problem: Maximum Product
+Link: https://codeforces.com/contest/1406/problem/B
