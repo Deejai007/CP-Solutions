@@ -1,0 +1,2 @@
+Problem: Vlad Building Beautiful Array
+Link: https://codeforces.com/contest/1833/problem/C
