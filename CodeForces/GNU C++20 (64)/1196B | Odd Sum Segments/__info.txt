@@ -1,0 +1,2 @@
+Problem: Odd Sum Segments
+Link: https://codeforces.com/contest/1196/problem/B
