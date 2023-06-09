@@ -1,0 +1,2 @@
+Problem: Shovels and Swords
+Link: https://codeforces.com/contest/1366/problem/A
