@@ -1,0 +1,2 @@
+Problem: Flipping Game
+Link: https://codeforces.com/contest/327/problem/A
