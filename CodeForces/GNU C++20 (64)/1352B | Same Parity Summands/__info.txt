@@ -1,0 +1,2 @@
+Problem: Same Parity Summands
+Link: https://codeforces.com/contest/1352/problem/B
